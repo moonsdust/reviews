@@ -1,0 +1,10 @@
+---
+title: "Review"
+author: 
+  - Emily Su
+date: today
+date-format: long
+format: pdf
+number-sections: true
+---
+The following is a link to my review for "Beyond the Numbers: Dissecting New York City's Leading Causes of Death Across Demographics" (current title):  https://github.com/RayanAlim/Analysis-of-Morbidity-in-New-York/issues/5
